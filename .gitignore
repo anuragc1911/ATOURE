@@ -1,0 +1,5 @@
+src/
+.taste-skill/
+.playwright-cli/
+assets.txt
+.DS_Store
